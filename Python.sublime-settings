@@ -1,0 +1,4 @@
+{
+	// Word wrapping - follow PEP 8 recommendations
+	"rulers": [ 72, 79 ],
+}

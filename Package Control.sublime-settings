@@ -1,0 +1,13 @@
+{
+	"installed_packages":
+	[
+		"Base16 Color Schemes",
+		"GitGutter",
+		"Handlebars",
+		"HTMLBeautify",
+		"LESS",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"Theme - Spacegray"
+	]
+}
