@@ -2,12 +2,18 @@
 	"installed_packages":
 	[
 		"Base16 Color Schemes",
+		"Better CoffeeScript",
 		"GitGutter",
 		"Handlebars",
 		"HTMLBeautify",
+		"JSHint Gutter",
 		"LESS",
+		"Lo-Dash Snippets for CoffeeScript",
+		"Pretty JSON",
+		"Restructured Text (RST) Snippets",
 		"SublimeLinter",
 		"SublimeLinter-flake8",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"UIkit autocomplete"
 	]
 }
